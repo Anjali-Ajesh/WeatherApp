@@ -29,9 +29,7 @@ To run this project, you need a free API key from OpenWeatherMap.
     * Navigate to the "API keys" tab and copy your default API key.
 
 2.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/your-username/weather-app.git](https://github.com/your-username/weather-app.git)
-    ```
+  
 
 3.  **Add Your API Key:**
     * Open the `index.html` file in a code editor.
