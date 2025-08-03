@@ -2,7 +2,7 @@
 
 A beautiful and responsive weather application that provides real-time weather data for any city. Built with Vanilla JavaScript and styled with Tailwind CSS, this app fetches data from the OpenWeatherMap API to deliver a seamless user experience.
 
-![Weather App Screenshot](https://placehold.co/600x400/60a5fa/FFFFFF?text=Weather+App+UI)
+<img width="734" height="460" alt="Screenshot 2025-08-03 at 5 49 06 PM" src="https://github.com/user-attachments/assets/fb876f9f-8424-4658-a849-95cbd20d85d4" />
 
 ## Features
 
